@@ -2,11 +2,11 @@
 
 A comprehensive machine learning analysis of police killings in the United States using demographic, socioeconomic, and geographic data to predict armed status and identify disparities.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes **438 police killing incidents** from 2015 using advanced data science techniques to explore patterns in demographics, socioeconomic factors, and geographic distribution. We built and evaluated multiple machine learning models to predict whether victims were armed based on various features.
 
-## 🎯 Key Findings
+## Key Findings
 
 - **Model Performance**: Achieved up to **77% accuracy** using Logistic Regression in predicting armed status
 - **Racial Disparities**: Identified significant differences in armed vs. unarmed incidents across racial groups
@@ -30,7 +30,7 @@ This project analyzes **438 police killing incidents** from 2015 using advanced 
 - **Confusion Matrix Analysis** for detailed classification evaluation
 - **Feature Importance Analysis** using Random Forest and linear model coefficients
 
-## 📈 Visualizations
+## Visualizations
 
 The analysis includes **10+ interactive visualizations**:
 - Geographic heatmaps using **Folium** showing incident distribution
@@ -40,7 +40,7 @@ The analysis includes **10+ interactive visualizations**:
 - Socioeconomic scatter plots (poverty vs. income)
 - Confusion matrices for all three models
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Python** - Primary programming language
 - **Scikit-learn** - Machine learning models and evaluation
