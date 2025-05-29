@@ -74,11 +74,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn folium jupyter
 
 ## Dataset Details
 
-- **Source**: FiveThirtyEight
+- **Source**: [FiveThirtyEight Police Killings Dataset](https://github.com/fivethirtyeight/data/blob/master/police-killings/police_killings.csv)
 - **Size**: 438 incidents (after cleaning)
 - **Features**: 23 original columns including demographic, geographic, and socioeconomic data
 - **Target Variable**: Binary armed status (armed/unarmed)
-
 ### Key Research Questions Addressed
 
 1. **Predictive Modeling**: Can we predict armed status from demographic and socioeconomic features?
